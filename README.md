@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nestjs,bootstrap,tailwind,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,bootstrap,tailwind,postgres,mongodb" />
 </p>
 
 - **Languages:**
@@ -21,6 +21,7 @@
 - **Backend:**
   
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 - **Frontend:**
   
